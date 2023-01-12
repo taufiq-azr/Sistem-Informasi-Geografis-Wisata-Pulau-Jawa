@@ -1,0 +1,234 @@
+{"type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.803517337536,
+                    -7.29402911211084
+                ]
+            },
+            "properties": {
+                "Place_Id": "40",
+                "Place_Name": "Taman Harmoni Keputih",
+                "Category": "Cagar Alam",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:04",
+                "Y": -7.29402911211084,
+                "X": 112.803517337536,
+                "Jml_pengun": "150",
+                "Jml_peng_1": "240",
+                "Foto": "https://getlost.id/wp-content/uploads/2021/07/Ainur-1981.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.795609227732,
+                    -7.23554428720781
+                ]
+            },
+            "properties": {
+                "Place_Id": "41",
+                "Place_Name": "Air Mancur Menari",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "35000",
+                "Rating": "04:04",
+                "Y": -7.23554428720781,
+                "X": 112.795609227732,
+                "Jml_pengun": "170",
+                "Jml_peng_1": "280",
+                "Foto": "https://blogger.googleusercontent.com/img/a/AVvXsEi-de3xC23GvQqZBbd7Uemx5wsF0VDZtm4TCAQ9SVC333SsTNqtd3Ow_Hgprgasru5vT7DFDdM9E01_iKq6T08IQnlJfTuknQ7L3VVAcXj3kHygH82UkyKqWZ6WplmUFMFBIJZWOl8NBXpoYp6HKq4lBfWRx1R3yrRTsISjwAnUS68usf4qNaOx-ygOiA=w640-h394"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.742839962376,
+                    -7.26147888359352
+                ]
+            },
+            "properties": {
+                "Place_Id": "42",
+                "Place_Name": "Taman Prestasi",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:06",
+                "Y": -7.26147888359352,
+                "X": 112.742839962376,
+                "Jml_pengun": "125",
+                "Jml_peng_1": "345",
+                "Foto": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/11/12/4106578365.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.750272838332,
+                    -7.26569609192728
+                ]
+            },
+            "properties": {
+                "Place_Id": "43",
+                "Place_Name": "Monumen Kapal Selam",
+                "Category": "Budaya",
+                "City": "Surabaya",
+                "Price": "15000",
+                "Rating": "04:04",
+                "Y": -7.26569609192728,
+                "X": 112.750272838332,
+                "Jml_pengun": "124",
+                "Jml_peng_1": "324",
+                "Foto": "https://tourism.surabaya.go.id/storage/tour/1652777982_1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.784240700472,
+                    -7.31821521849223
+                ]
+            },
+            "properties": {
+                "Place_Id": "44",
+                "Place_Name": "Taman Kunang-Kunang",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:04",
+                "Y": -7.31821521849223,
+                "X": 112.784240700472,
+                "Jml_pengun": "245",
+                "Jml_peng_1": "657",
+                "Foto": "https://akcdn.detik.net.id/visual/2015/10/20/20ce0e51-04cf-4d35-aff8-d12b301bb70c_169.jpg?w=650"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.742740140867,
+                    -7.25463730043426
+                ]
+            },
+            "properties": {
+                "Place_Id": "45",
+                "Place_Name": "Taman Buah Surabaya",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:01",
+                "Y": -7.25463730043426,
+                "X": 112.742740140867,
+                "Jml_pengun": "134",
+                "Jml_peng_1": "645",
+                "Foto": "https://3.bp.blogspot.com/-fBGDIKfPt30/WCA8wwD18uI/AAAAAAAAGeM/Qmo_o0N3XisYndbVzckTAsQXI7-X6R3GwCLcB/s1600/buah1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.731159824041,
+                    -7.32731564668413
+                ]
+            },
+            "properties": {
+                "Place_Id": "46",
+                "Place_Name": "Taman Pelangi",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:05",
+                "Y": -7.32731564668413,
+                "X": 112.731159824041,
+                "Jml_pengun": "143",
+                "Jml_peng_1": "678",
+                "Foto": "https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/taman-pelangi-jogja.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.801734525886,
+                    -7.29391420236857
+                ]
+            },
+            "properties": {
+                "Place_Id": "47",
+                "Place_Name": "Hutan Bambu Keputih",
+                "Category": "Cagar Alam",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:03",
+                "Y": -7.29391420236857,
+                "X": 112.801734525886,
+                "Jml_pengun": "260",
+                "Jml_peng_1": "708",
+                "Foto": "https://bappedalitbang.surabaya.go.id/ecobis/upload/wisata/sejarah/detail_45_01.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.661973110546,
+                    -7.25078784795446
+                ]
+            },
+            "properties": {
+                "Place_Id": "48",
+                "Place_Name": "Food Junction Grand Pakuwon",
+                "Category": "Pusat Perbelanjaan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:05",
+                "Y": -7.25078784795446,
+                "X": 112.661973110546,
+                "Jml_pengun": "234",
+                "Jml_peng_1": "590",
+                "Foto": "https://medicaltourism.id/wp-content/uploads/2021/04/Sampul-Food-Junction.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.73193232404,
+                    -7.2218217329439
+                ]
+            },
+            "properties": {
+                "Place_Id": "49",
+                "Place_Name": "Taman Barunawati",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:02",
+                "Y": -7.2218217329439,
+                "X": 112.73193232404,
+                "Jml_pengun": "239",
+                "Jml_peng_1": "688",
+                "Foto": "https://www.kabarbisnis.com/images/photo/201910/2235-Taman2.jpg"
+            }
+        }
+    ]
+}

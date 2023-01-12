@@ -1,0 +1,234 @@
+{"type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8271206,
+                    -6.175136398
+                ]
+            },
+            "properties": {
+                "Place_Id": "1",
+                "Place_Name": "Monumen Nasional",
+                "Category": "Budaya",
+                "City": "Jakarta",
+                "Price": "20000",
+                "Rating": "04:06",
+                "Y": -6.175403099003836,
+                "X": 106.82715818693947,
+                "Jml_pengun": "2351",
+                "Jml_peng_1": "3248",
+                "Foto": "https://assets.pikiran-rakyat.com/crop/0x416:1077x1079/x/photo/2021/01/26/2869470274.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.816927451669,
+                    -6.13591022
+                ]
+            },
+            "properties": {
+                "Place_Id": "2",
+                "Place_Name": "Kota Tua",
+                "Category": "Budaya",
+                "City": "Jakarta",
+                "Price": "0",
+                "Rating": "04:06",
+                "Y": -6.13591022,
+                "X": 106.816927451669,
+                "Jml_pengun": "1123",
+                "Jml_peng_1": "3893",
+                "Foto": "https://cdn-cas.orami.co.id/parenting/images/38233388_977280745765835_213952902497042432_n.width-1000.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.833526968289,
+                    -6.12517371695658
+                ]
+            },
+            "properties": {
+                "Place_Id": "3",
+                "Place_Name": "Dunia Fantasi",
+                "Category": "Taman Hiburan",
+                "City": "Jakarta",
+                "Price": "270000",
+                "Rating": "04:06",
+                "Y": -6.12517371695658,
+                "X": 106.833526968289,
+                "Jml_pengun": "6332",
+                "Jml_peng_1": "7846",
+                "Foto": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/12/08/9c6ae660-1799-4276-b81d-f8b0b85669d6-1638949473006-1e6c55a1b1edca6bf250012af2cc79e2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.895145146345,
+                    -6.30227525692246
+                ]
+            },
+            "properties": {
+                "Place_Id": "4",
+                "Place_Name": "Taman Mini Indonesia Indah (TMII)",
+                "Category": "Taman Hiburan",
+                "City": "Jakarta",
+                "Price": "10000",
+                "Rating": "04:05",
+                "Y": -6.30227525692246,
+                "X": 106.895145146345,
+                "Jml_pengun": "4430",
+                "Jml_peng_1": "5879",
+                "Foto": "https://akcdn.detik.net.id/visual/2021/04/08/wisata-tmii_169.jpeg?w=650"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.839144725961,
+                    -6.12398731100764
+                ]
+            },
+            "properties": {
+                "Place_Id": "5",
+                "Place_Name": "Atlantis Water Adventure",
+                "Category": "Taman Hiburan",
+                "City": "Jakarta",
+                "Price": "94000",
+                "Rating": "04:05",
+                "Y": -6.12398731100764,
+                "X": 106.839144725961,
+                "Jml_pengun": "6708",
+                "Jml_peng_1": "5688",
+                "Foto": "https://res.klook.com/image/upload/c_fill,w_750,h_500,f_auto/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/wbmh43n6r08ibwwtofrm.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.833296646337,
+                    -6.12878883365435
+                ]
+            },
+            "properties": {
+                "Place_Id": "6",
+                "Place_Name": "Taman Impian Jaya Ancol",
+                "Category": "Taman Hiburan",
+                "City": "Jakarta",
+                "Price": "25000",
+                "Rating": "04:05",
+                "Y": -6.12878883365435,
+                "X": 106.833296646337,
+                "Jml_pengun": "3183",
+                "Jml_peng_1": "2465",
+                "Foto": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/12/14/d51b087c-0d57-409c-af21-480a5a429cbc-1639490594644-ad2647616fb079895bd280202c75a370.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.820775940038,
+                    -6.31099407437829
+                ]
+            },
+            "properties": {
+                "Place_Id": "7",
+                "Place_Name": "Kebun Binatang Ragunan",
+                "Category": "Cagar Alam",
+                "City": "Jakarta",
+                "Price": "4000",
+                "Rating": "04:05",
+                "Y": -6.31099407437829,
+                "X": 106.820775940038,
+                "Jml_pengun": "1532",
+                "Jml_peng_1": "5195",
+                "Foto": "https://cdn-cas.orami.co.id/parenting/images/wisata-kebun_binatang-ragunan.width-1000.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.811931197125,
+                    -6.18883893461878
+                ]
+            },
+            "properties": {
+                "Place_Id": "8",
+                "Place_Name": "Pasar Tanah Abang",
+                "Category": "Pusat Perbelanjaan",
+                "City": "Jakarta",
+                "Price": "0",
+                "Rating": "4",
+                "Y": -6.18883893461878,
+                "X": 106.811931197125,
+                "Jml_pengun": "1634",
+                "Jml_peng_1": "3292",
+                "Foto": "https://www.islampos.com/wp-content/uploads/2019/05/pasar-tanah-abang.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.829561697125,
+                    -6.12122794230122
+                ]
+            },
+            "properties": {
+                "Place_Id": "9",
+                "Place_Name": "Pelabuhan Marina",
+                "Category": "Bahari",
+                "City": "Jakarta",
+                "Price": "175000",
+                "Rating": "04:04",
+                "Y": -6.12122794230122,
+                "X": 106.829561697125,
+                "Jml_pengun": "1102",
+                "Jml_peng_1": "1221",
+                "Foto": "https://pbs.twimg.com/media/DbNu2j0VwAAsRZb.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.519941986049,
+                    -5.77583155530603
+                ]
+            },
+            "properties": {
+                "Place_Id": "10",
+                "Place_Name": "Pulau Tidung",
+                "Category": "Bahari",
+                "City": "Jakarta",
+                "Price": "150000",
+                "Rating": "04:05",
+                "Y": -5.77583155530603,
+                "X": 106.519941986049,
+                "Jml_pengun": "882",
+                "Jml_peng_1": "1231",
+                "Foto": "https://pulauseribu.co.id/wp-content/uploads/wisata-pulau-tidung-murah.jpg"
+            }
+        }
+    ]
+}

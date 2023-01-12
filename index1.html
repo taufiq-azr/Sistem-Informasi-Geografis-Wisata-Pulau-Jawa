@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v7.1.0/ol.css">
+    <script src="https://cdn.jsdelivr.net/npm/ol@v7.1.0/dist/ol.js"></script>
+    <link rel="stylesheet" href="data/style.css">
+    
+
+    <title>Pesebaran Tempat Wisata di Pulau Jawa</title>
+
+    <style>
+        html,
+        body {
+        margin: 0;
+        height: 100%;
+        }
+
+        #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;  
+        }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <!-- menampilkan popup-->
+    <div id="popup" class="ol-popup">
+      <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+      <div id="popup-content"></div>
+    </div>
+    <!-- ------------------->
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>

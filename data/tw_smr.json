@@ -1,0 +1,234 @@
+{"type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.342151170844,
+                    -7.20972271469086
+                ]
+            },
+            "properties": {
+                "Place_Id": "30",
+                "Place_Name": "Candi Gedong Songo",
+                "Category": "Budaya",
+                "City": "Semarang",
+                "Price": "10000",
+                "Rating": "04:05",
+                "Y": -7.20972271469086,
+                "X": 110.342151170844,
+                "Jml_pengun": "1098",
+                "Jml_peng_1": "908",
+                "Foto": "https://majalahaula.id/wp-content/uploads/2022/03/Wisata-Candi-Gedong-Songo-Semarang.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.3864477,
+                    -6.96001809203384
+                ]
+            },
+            "properties": {
+                "Place_Id": "31",
+                "Place_Name": "Grand Maerakaca",
+                "Category": "Taman Hiburan",
+                "City": "Semarang",
+                "Price": "15000",
+                "Rating": "04:04",
+                "Y": -6.96001809203384,
+                "X": 110.3864477,
+                "Jml_pengun": "1967",
+                "Jml_peng_1": "2484",
+                "Foto": "https://i.ytimg.com/vi/jqWMSsMlk8o/maxresdefault.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.408292222163,
+                    -6.98865756340878
+                ]
+            },
+            "properties": {
+                "Place_Id": "32",
+                "Place_Name": "Kampung Pelangi",
+                "Category": "Taman Hiburan",
+                "City": "Semarang",
+                "Price": "3000",
+                "Rating": "04:03",
+                "Y": -6.98865756340878,
+                "X": 110.408292222163,
+                "Jml_pengun": "635",
+                "Jml_peng_1": "580",
+                "Foto": "https://travel.wego.com/berita/wp-content/uploads/2017/05/editorialonly_semarangindo2017_corry.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.410597838341,
+                    -6.98369896565768
+                ]
+            },
+            "properties": {
+                "Place_Id": "33",
+                "Place_Name": "Lawang Sewu",
+                "Category": "Budaya",
+                "City": "Semarang",
+                "Price": "10000",
+                "Rating": "04:06",
+                "Y": -6.98369896565768,
+                "X": 110.410597838341,
+                "Jml_pengun": "670",
+                "Jml_peng_1": "147",
+                "Foto": "https://asset.kompas.com/crops/5fOXY3K4oKdIzs-F7qNcs0qtt68=/0x0:1430x953/750x500/data/photo/2022/01/17/61e57605c2256.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.37550336819,
+                    -7.01971514048326
+                ]
+            },
+            "properties": {
+                "Place_Id": "34",
+                "Place_Name": "Desa Wisata Lembah Kalipancur",
+                "Category": "Taman Hiburan",
+                "City": "Semarang",
+                "Price": "0",
+                "Rating": "03:09",
+                "Y": -7.01971514048326,
+                "X": 110.37550336819,
+                "Jml_pengun": "350",
+                "Jml_peng_1": "687",
+                "Foto": "https://cdn-2.tstatic.net/jateng/foto/bank/images/desa-wisata-lembah-kalipancur.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.401934768191,
+                    -7.02746956815269
+                ]
+            },
+            "properties": {
+                "Place_Id": "35",
+                "Place_Name": "Hutan Wisata Tinjomoyo Semarang",
+                "Category": "Cagar Alam",
+                "City": "Semarang",
+                "Price": "3000",
+                "Rating": "04:03",
+                "Y": -7.02746956815269,
+                "X": 110.401934768191,
+                "Jml_pengun": "694",
+                "Jml_peng_1": "897",
+                "Foto": "https://cdn-2.tstatic.net/jateng/foto/bank/images/penampakan-jembatan-merah-tinjomoyo_20161125_194056.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.406507322163,
+                    -6.99013098946846
+                ]
+            },
+            "properties": {
+                "Place_Id": "36",
+                "Place_Name": "Taman Kasmaran",
+                "Category": "Taman Hiburan",
+                "City": "Semarang",
+                "Price": "3000",
+                "Rating": "04:05",
+                "Y": -6.99013098946846,
+                "X": 110.406507322163,
+                "Jml_pengun": "361",
+                "Jml_peng_1": "684",
+                "Foto": "https://scymark.semarangkota.go.id/admin/data/20180828085124taman-kasmaran-mulai-dikunjungi-masyarakat-jumat-29122017_20171229_183029.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.398025176135,
+                    -6.94421050980167
+                ]
+            },
+            "properties": {
+                "Place_Id": "37",
+                "Place_Name": "Pantai Baruna",
+                "Category": "Bahari",
+                "City": "Semarang",
+                "Price": "3000",
+                "Rating": "4",
+                "Y": -6.94421050980167,
+                "X": 110.398025176135,
+                "Jml_pengun": "645",
+                "Jml_peng_1": "823",
+                "Foto": "https://idntrip.com/wp-content/uploads/pantai-baruna.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.431638245455,
+                    -6.9678354562366
+                ]
+            },
+            "properties": {
+                "Place_Id": "38",
+                "Place_Name": "Kampoeng Djadhoel Semarang",
+                "Category": "Budaya",
+                "City": "Semarang",
+                "Price": "10000",
+                "Rating": "04:07",
+                "Y": -6.9678354562366,
+                "X": 110.431638245455,
+                "Jml_pengun": "500",
+                "Jml_peng_1": "800",
+                "Foto": "https://img.antaranews.com/cache/800x533/2019/12/12/kampung-jadul.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.41990157614,
+                    -6.99128571444195
+                ]
+            },
+            "properties": {
+                "Place_Id": "39",
+                "Place_Name": "Indonesia Kaya Park",
+                "Category": "Taman Hiburan",
+                "City": "Semarang",
+                "Price": "0",
+                "Rating": "04:06",
+                "Y": -6.99128571444195,
+                "X": 110.41990157614,
+                "Jml_pengun": "120",
+                "Jml_peng_1": "324",
+                "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Taman_indonesia_kaya.jpg/330px-Taman_indonesia_kaya.jpg"
+            }
+        }
+    ]
+}

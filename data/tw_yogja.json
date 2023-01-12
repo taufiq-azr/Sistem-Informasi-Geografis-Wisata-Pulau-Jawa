@@ -1,0 +1,234 @@
+{"type": "FeatureCollection",
+    "features": [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        110.367564616934,
+                        -7.80090841484888
+                    ]
+                },
+                "properties": {
+                    "Place_Id": "11",
+                    "Place_Name": "Taman Pintar Yogyakarta",
+                    "Category": "Taman Hiburan",
+                    "City": "Yogyakarta",
+                    "Price": "6000",
+                    "Rating": "04:05",
+                    "Y": -7.80090841484888,
+                    "X": 110.367564616934,
+                    "Jml_pengun": "1098",
+                    "Jml_peng_1": "1762",
+                    "Foto": "https://www.yogyes.com/id/yogyakarta-tourism-object/other/taman-pintar/1.jpg"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        110.364160137591,
+                        -7.80451909030923
+                    ]
+                },
+                "properties": {
+                    "Place_Id": "12",
+                    "Place_Name": "Keraton Yogyakarta",
+                    "Category": "Budaya",
+                    "City": "Yogyakarta",
+                    "Price": "15000",
+                    "Rating": "04:06",
+                    "Y": -7.80451909030923,
+                    "X": 110.364160137591,
+                    "Jml_pengun": "769",
+                    "Jml_peng_1": "591",
+                    "Foto": "https://aliftourjogja.com/wp-content/uploads/2020/03/keraton-jogja-1.jpg"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        110.354463129633,
+                        -7.76661686470068
+                    ]
+                },
+                "properties": {
+                    "Place_Id": "13",
+                    "Place_Name": "Sindu Kusuma Edupark (SKE)",
+                    "Category": "Taman Hiburan",
+                    "City": "Yogyakarta",
+                    "Price": "20000",
+                    "Rating": "04:02",
+                    "Y": -7.76661686470068,
+                    "X": 110.354463129633,
+                    "Jml_pengun": "316",
+                    "Jml_peng_1": "320",
+                    "Foto": "https://www.yogyes.com/id/yogyakarta-tourism-object/other/sindu-kusuma-edupark/1.jpg"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        110.365906660884,
+                        -7.79914491606764
+                    ]
+                },
+                "properties": {
+                    "Place_Id": "14",
+                    "Place_Name": "Museum Benteng Vredeburg Yogyakarta",
+                    "Category": "Budaya",
+                    "City": "Yogyakarta",
+                    "Price": "3000",
+                    "Rating": "04:06",
+                    "Y": -7.79914491606764,
+                    "X": 110.365906660884,
+                    "Jml_pengun": "1192",
+                    "Jml_peng_1": "3291",
+                    "Foto": "https://asset.kompas.com/crops/sdelWdTyKftRI41yvMYhTsOblIg=/0x0:597x398/750x500/data/photo/2021/09/16/61433b6621325.jpg"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        110.387015406909,
+                        -7.81521007664615
+                    ]
+                },
+                "properties": {
+                    "Place_Id": "15",
+                    "Place_Name": "De Mata Museum Jogja",
+                    "Category": "Budaya",
+                    "City": "Yogyakarta",
+                    "Price": "50000",
+                    "Rating": "04:04",
+                    "Y": -7.81521007664615,
+                    "X": 110.387015406909,
+                    "Jml_pengun": "990",
+                    "Jml_peng_1": "1088",
+                    "Foto": "https://www.yogyes.com/id/places/jogja/yogyatourium/1.jpg"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        110.3593937,
+                        -7.8091743469827
+                    ]
+                },
+                "properties": {
+                    "Place_Id": "16",
+                    "Place_Name": "Kampung Wisata Taman Sari",
+                    "Category": "Taman Hiburan",
+                    "City": "Yogyakarta",
+                    "Price": "5000",
+                    "Rating": "04:06",
+                    "Y": -7.8091743469827,
+                    "X": 110.3593937,
+                    "Jml_pengun": "1121",
+                    "Jml_peng_1": "2132",
+                    "Foto": "https://asset.kompas.com/crops/RcLIQDbBE1Q-C9jTWEzmvxofG44=/14x0:989x650/750x500/data/photo/2020/02/20/5e4e6891abe99.jpg"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        110.3931513,
+                        -7.80958813400728
+                    ]
+                },
+                "properties": {
+                    "Place_Id": "17",
+                    "Place_Name": "Situs Warungboto",
+                    "Category": "Taman Hiburan",
+                    "City": "Yogyakarta",
+                    "Price": "0",
+                    "Rating": "04:04",
+                    "Y": -7.80958813400728,
+                    "X": 110.3931513,
+                    "Jml_pengun": "987",
+                    "Jml_peng_1": "1023",
+                    "Foto": "http://wargajogja.net/wp-content/uploads/2017/05/IMG_2012-3.jpg"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        110.36486,
+                        -7.80033046525805
+                    ]
+                },
+                "properties": {
+                    "Place_Id": "18",
+                    "Place_Name": "Nol Kilometer Jl.Malioboro",
+                    "Category": "Taman Hiburan",
+                    "City": "Yogyakarta",
+                    "Price": "0",
+                    "Rating": "04:07",
+                    "Y": -7.80033046525805,
+                    "X": 110.36486,
+                    "Jml_pengun": "456",
+                    "Jml_peng_1": "972",
+                    "Foto": "https://jogjatourwisata.id/wp-content/uploads/2019/05/titik-nol-jogja.jpg"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        110.387015,
+                        -7.8037431046475
+                    ]
+                },
+                "properties": {
+                    "Place_Id": "19",
+                    "Place_Name": "Gembira Loka Zoo",
+                    "Category": "Cagar Alam",
+                    "City": "Yogyakarta",
+                    "Price": "60000",
+                    "Rating": "04:05",
+                    "Y": -7.8037431046475,
+                    "X": 110.387015,
+                    "Jml_pengun": "3219",
+                    "Jml_peng_1": "3109",
+                    "Foto": "https://visitingjogja.jogjaprov.go.id/web/wp-content/uploads/2021/10/gl7.jpg"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        110.358645419374,
+                        -7.8013435610092
+                    ]
+                },
+                "properties": {
+                    "Place_Id": "20",
+                    "Place_Name": "Sumur Gumuling",
+                    "Category": "Taman Hiburan",
+                    "City": "Yogyakarta",
+                    "Price": "7000",
+                    "Rating": "04:05",
+                    "Y": -7.8013435610092,
+                    "X": 110.358645419374,
+                    "Jml_pengun": "209",
+                    "Jml_peng_1": "509",
+                    "Foto": "https://static.republika.co.id/uploads/images/inpicture_slide/masjid-sumur-gumuling-_160819025703-928.jpg"
+                }
+            }
+    ]
+}

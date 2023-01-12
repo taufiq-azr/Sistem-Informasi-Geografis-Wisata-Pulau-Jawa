@@ -1,0 +1,1155 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8271206,
+                    -6.175136398
+                ]
+            },
+            "properties": {
+                "Place_Id": "1",
+                "Place_Name": "Monumen Nasional",
+                "Category": "Budaya",
+                "City": "Jakarta",
+                "Price": "20000",
+                "Rating": "04:06",
+                "Y": -6.175403099003836,
+                "X": 106.82715818693947,
+                "Jml_pengun": "2351",
+                "Jml_peng_1": "3248",
+                "Foto": "https://assets.pikiran-rakyat.com/crop/0x416:1077x1079/x/photo/2021/01/26/2869470274.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.816927451669,
+                    -6.13591022
+                ]
+            },
+            "properties": {
+                "Place_Id": "2",
+                "Place_Name": "Kota Tua",
+                "Category": "Budaya",
+                "City": "Jakarta",
+                "Price": "0",
+                "Rating": "04:06",
+                "Y": -6.13591022,
+                "X": 106.816927451669,
+                "Jml_pengun": "1123",
+                "Jml_peng_1": "3893",
+                "Foto": "https://cdn-cas.orami.co.id/parenting/images/38233388_977280745765835_213952902497042432_n.width-1000.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.833526968289,
+                    -6.12517371695658
+                ]
+            },
+            "properties": {
+                "Place_Id": "3",
+                "Place_Name": "Dunia Fantasi",
+                "Category": "Taman Hiburan",
+                "City": "Jakarta",
+                "Price": "270000",
+                "Rating": "04:06",
+                "Y": -6.12517371695658,
+                "X": 106.833526968289,
+                "Jml_pengun": "6332",
+                "Jml_peng_1": "7846",
+                "Foto": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/12/08/9c6ae660-1799-4276-b81d-f8b0b85669d6-1638949473006-1e6c55a1b1edca6bf250012af2cc79e2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.895145146345,
+                    -6.30227525692246
+                ]
+            },
+            "properties": {
+                "Place_Id": "4",
+                "Place_Name": "Taman Mini Indonesia Indah (TMII)",
+                "Category": "Taman Hiburan",
+                "City": "Jakarta",
+                "Price": "10000",
+                "Rating": "04:05",
+                "Y": -6.30227525692246,
+                "X": 106.895145146345,
+                "Jml_pengun": "4430",
+                "Jml_peng_1": "5879",
+                "Foto": "https://akcdn.detik.net.id/visual/2021/04/08/wisata-tmii_169.jpeg?w=650"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.839144725961,
+                    -6.12398731100764
+                ]
+            },
+            "properties": {
+                "Place_Id": "5",
+                "Place_Name": "Atlantis Water Adventure",
+                "Category": "Taman Hiburan",
+                "City": "Jakarta",
+                "Price": "94000",
+                "Rating": "04:05",
+                "Y": -6.12398731100764,
+                "X": 106.839144725961,
+                "Jml_pengun": "6708",
+                "Jml_peng_1": "5688",
+                "Foto": "https://res.klook.com/image/upload/c_fill,w_750,h_500,f_auto/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/wbmh43n6r08ibwwtofrm.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.833296646337,
+                    -6.12878883365435
+                ]
+            },
+            "properties": {
+                "Place_Id": "6",
+                "Place_Name": "Taman Impian Jaya Ancol",
+                "Category": "Taman Hiburan",
+                "City": "Jakarta",
+                "Price": "25000",
+                "Rating": "04:05",
+                "Y": -6.12878883365435,
+                "X": 106.833296646337,
+                "Jml_pengun": "3183",
+                "Jml_peng_1": "2465",
+                "Foto": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/12/14/d51b087c-0d57-409c-af21-480a5a429cbc-1639490594644-ad2647616fb079895bd280202c75a370.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.820775940038,
+                    -6.31099407437829
+                ]
+            },
+            "properties": {
+                "Place_Id": "7",
+                "Place_Name": "Kebun Binatang Ragunan",
+                "Category": "Cagar Alam",
+                "City": "Jakarta",
+                "Price": "4000",
+                "Rating": "04:05",
+                "Y": -6.31099407437829,
+                "X": 106.820775940038,
+                "Jml_pengun": "1532",
+                "Jml_peng_1": "5195",
+                "Foto": "https://cdn-cas.orami.co.id/parenting/images/wisata-kebun_binatang-ragunan.width-1000.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.811931197125,
+                    -6.18883893461878
+                ]
+            },
+            "properties": {
+                "Place_Id": "8",
+                "Place_Name": "Pasar Tanah Abang",
+                "Category": "Pusat Perbelanjaan",
+                "City": "Jakarta",
+                "Price": "0",
+                "Rating": "4",
+                "Y": -6.18883893461878,
+                "X": 106.811931197125,
+                "Jml_pengun": "1634",
+                "Jml_peng_1": "3292",
+                "Foto": "https://www.islampos.com/wp-content/uploads/2019/05/pasar-tanah-abang.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.829561697125,
+                    -6.12122794230122
+                ]
+            },
+            "properties": {
+                "Place_Id": "9",
+                "Place_Name": "Pelabuhan Marina",
+                "Category": "Bahari",
+                "City": "Jakarta",
+                "Price": "175000",
+                "Rating": "04:04",
+                "Y": -6.12122794230122,
+                "X": 106.829561697125,
+                "Jml_pengun": "1102",
+                "Jml_peng_1": "1221",
+                "Foto": "https://pbs.twimg.com/media/DbNu2j0VwAAsRZb.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.519941986049,
+                    -5.77583155530603
+                ]
+            },
+            "properties": {
+                "Place_Id": "10",
+                "Place_Name": "Pulau Tidung",
+                "Category": "Bahari",
+                "City": "Jakarta",
+                "Price": "150000",
+                "Rating": "04:05",
+                "Y": -5.77583155530603,
+                "X": 106.519941986049,
+                "Jml_pengun": "882",
+                "Jml_peng_1": "1231",
+                "Foto": "https://pulauseribu.co.id/wp-content/uploads/wisata-pulau-tidung-murah.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.367564616934,
+                    -7.80090841484888
+                ]
+            },
+            "properties": {
+                "Place_Id": "11",
+                "Place_Name": "Taman Pintar Yogyakarta",
+                "Category": "Taman Hiburan",
+                "City": "Yogyakarta",
+                "Price": "6000",
+                "Rating": "04:05",
+                "Y": -7.80090841484888,
+                "X": 110.367564616934,
+                "Jml_pengun": "1098",
+                "Jml_peng_1": "1762",
+                "Foto": "https://www.yogyes.com/id/yogyakarta-tourism-object/other/taman-pintar/1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.364160137591,
+                    -7.80451909030923
+                ]
+            },
+            "properties": {
+                "Place_Id": "12",
+                "Place_Name": "Keraton Yogyakarta",
+                "Category": "Budaya",
+                "City": "Yogyakarta",
+                "Price": "15000",
+                "Rating": "04:06",
+                "Y": -7.80451909030923,
+                "X": 110.364160137591,
+                "Jml_pengun": "769",
+                "Jml_peng_1": "591",
+                "Foto": "https://aliftourjogja.com/wp-content/uploads/2020/03/keraton-jogja-1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.354463129633,
+                    -7.76661686470068
+                ]
+            },
+            "properties": {
+                "Place_Id": "13",
+                "Place_Name": "Sindu Kusuma Edupark (SKE)",
+                "Category": "Taman Hiburan",
+                "City": "Yogyakarta",
+                "Price": "20000",
+                "Rating": "04:02",
+                "Y": -7.76661686470068,
+                "X": 110.354463129633,
+                "Jml_pengun": "316",
+                "Jml_peng_1": "320",
+                "Foto": "https://www.yogyes.com/id/yogyakarta-tourism-object/other/sindu-kusuma-edupark/1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.365906660884,
+                    -7.79914491606764
+                ]
+            },
+            "properties": {
+                "Place_Id": "14",
+                "Place_Name": "Museum Benteng Vredeburg Yogyakarta",
+                "Category": "Budaya",
+                "City": "Yogyakarta",
+                "Price": "3000",
+                "Rating": "04:06",
+                "Y": -7.79914491606764,
+                "X": 110.365906660884,
+                "Jml_pengun": "1192",
+                "Jml_peng_1": "3291",
+                "Foto": "https://asset.kompas.com/crops/sdelWdTyKftRI41yvMYhTsOblIg=/0x0:597x398/750x500/data/photo/2021/09/16/61433b6621325.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.387015406909,
+                    -7.81521007664615
+                ]
+            },
+            "properties": {
+                "Place_Id": "15",
+                "Place_Name": "De Mata Museum Jogja",
+                "Category": "Budaya",
+                "City": "Yogyakarta",
+                "Price": "50000",
+                "Rating": "04:04",
+                "Y": -7.81521007664615,
+                "X": 110.387015406909,
+                "Jml_pengun": "990",
+                "Jml_peng_1": "1088",
+                "Foto": "https://www.yogyes.com/id/places/jogja/yogyatourium/1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.3593937,
+                    -7.8091743469827
+                ]
+            },
+            "properties": {
+                "Place_Id": "16",
+                "Place_Name": "Kampung Wisata Taman Sari",
+                "Category": "Taman Hiburan",
+                "City": "Yogyakarta",
+                "Price": "5000",
+                "Rating": "04:06",
+                "Y": -7.8091743469827,
+                "X": 110.3593937,
+                "Jml_pengun": "1121",
+                "Jml_peng_1": "2132",
+                "Foto": "https://asset.kompas.com/crops/RcLIQDbBE1Q-C9jTWEzmvxofG44=/14x0:989x650/750x500/data/photo/2020/02/20/5e4e6891abe99.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.3931513,
+                    -7.80958813400728
+                ]
+            },
+            "properties": {
+                "Place_Id": "17",
+                "Place_Name": "Situs Warungboto",
+                "Category": "Taman Hiburan",
+                "City": "Yogyakarta",
+                "Price": "0",
+                "Rating": "04:04",
+                "Y": -7.80958813400728,
+                "X": 110.3931513,
+                "Jml_pengun": "987",
+                "Jml_peng_1": "1023",
+                "Foto": "http://wargajogja.net/wp-content/uploads/2017/05/IMG_2012-3.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.36486,
+                    -7.80033046525805
+                ]
+            },
+            "properties": {
+                "Place_Id": "18",
+                "Place_Name": "Nol Kilometer Jl.Malioboro",
+                "Category": "Taman Hiburan",
+                "City": "Yogyakarta",
+                "Price": "0",
+                "Rating": "04:07",
+                "Y": -7.80033046525805,
+                "X": 110.36486,
+                "Jml_pengun": "456",
+                "Jml_peng_1": "972",
+                "Foto": "https://jogjatourwisata.id/wp-content/uploads/2019/05/titik-nol-jogja.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.387015,
+                    -7.8037431046475
+                ]
+            },
+            "properties": {
+                "Place_Id": "19",
+                "Place_Name": "Gembira Loka Zoo",
+                "Category": "Cagar Alam",
+                "City": "Yogyakarta",
+                "Price": "60000",
+                "Rating": "04:05",
+                "Y": -7.8037431046475,
+                "X": 110.387015,
+                "Jml_pengun": "3219",
+                "Jml_peng_1": "3109",
+                "Foto": "https://visitingjogja.jogjaprov.go.id/web/wp-content/uploads/2021/10/gl7.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.358645419374,
+                    -7.8013435610092
+                ]
+            },
+            "properties": {
+                "Place_Id": "20",
+                "Place_Name": "Sumur Gumuling",
+                "Category": "Taman Hiburan",
+                "City": "Yogyakarta",
+                "Price": "7000",
+                "Rating": "04:05",
+                "Y": -7.8013435610092,
+                "X": 110.358645419374,
+                "Jml_pengun": "209",
+                "Jml_peng_1": "509",
+                "Foto": "https://static.republika.co.id/uploads/images/inpicture_slide/masjid-sumur-gumuling-_160819025703-928.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.609305306815,
+                    -6.9169761613
+                ]
+            },
+            "properties": {
+                "Place_Id": "21",
+                "Place_Name": "Jalan Braga",
+                "Category": "Budaya",
+                "City": "Bandung",
+                "Price": "0",
+                "Rating": "04:07",
+                "Y": -6.9169761613,
+                "X": 107.609305306815,
+                "Jml_pengun": "162",
+                "Jml_peng_1": "214",
+                "Foto": "https://cdn.nativeindonesia.com/foto/2018/09/Jalan-Braga-3.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.618685368992,
+                    -6.9022405223769
+                ]
+            },
+            "properties": {
+                "Place_Id": "22",
+                "Place_Name": "Gedung Sate",
+                "Category": "Budaya",
+                "City": "Bandung",
+                "Price": "5000",
+                "Rating": "04:06",
+                "Y": -6.9022405223769,
+                "X": 107.618685368992,
+                "Jml_pengun": "389",
+                "Jml_peng_1": "456",
+                "Foto": "https://asset.kompas.com/crops/_QBFvchNV7JtOIaVkEg0JFZfLJU=/0x0:1000x667/750x500/data/photo/2022/07/25/62dec6809a479.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.636222540156,
+                    -6.92442188343561
+                ]
+            },
+            "properties": {
+                "Place_Id": "23",
+                "Place_Name": "Trans Studio Bandung",
+                "Category": "Taman Hiburan",
+                "City": "Bandung",
+                "Price": "280000",
+                "Rating": "04:05",
+                "Y": -6.92442188343561,
+                "X": 107.636222540156,
+                "Jml_pengun": "2989",
+                "Jml_peng_1": "3981",
+                "Foto": "https://img.bandung.go.id/images/news/2022/02/07/header/164419681126-trans-studio-bandung-destinasi-wajib-pelancong-dengan-20-wahana-seru.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.633100055499,
+                    -6.85686413639065
+                ]
+            },
+            "properties": {
+                "Place_Id": "24",
+                "Place_Name": "Taman Hutan Raya Ir. H. Djuanda",
+                "Category": "Cagar Alam",
+                "City": "Bandung",
+                "Price": "15000",
+                "Rating": "04:05",
+                "Y": -6.85686413639065,
+                "X": 107.633100055499,
+                "Jml_pengun": "1098",
+                "Jml_peng_1": "989",
+                "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Taman_Hutan_Raya_IR_Djuanda.jpg/1200px-Taman_Hutan_Raya_IR_Djuanda.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.605553924812,
+                    -6.83269202656492
+                ]
+            },
+            "properties": {
+                "Place_Id": "25",
+                "Place_Name": "Farm House Susu Lembang",
+                "Category": "Taman Hiburan",
+                "City": "Bandung",
+                "Price": "30000",
+                "Rating": "04:04",
+                "Y": -6.83269202656492,
+                "X": 107.605553924812,
+                "Jml_pengun": "879",
+                "Jml_peng_1": "912",
+                "Foto": "https://cdn.nativeindonesia.com/foto/farmhouse-lembang-bandung/farm-house-lembang-Bandung.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.607824997827,
+                    -6.88950706773544
+                ]
+            },
+            "properties": {
+                "Place_Id": "26",
+                "Place_Name": "Kebun Binatang Bandung",
+                "Category": "Cagar Alam",
+                "City": "Bandung",
+                "Price": "20000",
+                "Rating": "4",
+                "Y": -6.88950706773544,
+                "X": 107.607824997827,
+                "Jml_pengun": "1290",
+                "Jml_peng_1": "1098",
+                "Foto": "https://piknikwisata.com/wp-content/uploads/2019/08/kebun-binatang-bandung-e1568565524231.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.402107461322,
+                    -7.16599436936884
+                ]
+            },
+            "properties": {
+                "Place_Id": "27",
+                "Place_Name": "Kawah Putih",
+                "Category": "Cagar Alam",
+                "City": "Bandung",
+                "Price": "81000",
+                "Rating": "04:05",
+                "Y": -7.16599436936884,
+                "X": 107.402107461322,
+                "Jml_pengun": "650",
+                "Jml_peng_1": "433",
+                "Foto": "https://thumb.intipseleb.com/media/frontend/thumbs3/2022/05/25/628e05ea032a8-kawah-putih_1265_711.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.606096982485,
+                    -6.92148733275474
+                ]
+            },
+            "properties": {
+                "Place_Id": "28",
+                "Place_Name": "Masjid Raya Bandung",
+                "Category": "Tempat Ibadah",
+                "City": "Bandung",
+                "Price": "0",
+                "Rating": "04:07",
+                "Y": -6.92148733275474,
+                "X": 107.606096982485,
+                "Jml_pengun": "2983",
+                "Jml_peng_1": "3012",
+                "Foto": "https://tourbandung.id/wp-content/uploads/2019/05/Lokasi-Masjid-Raya-Agung-Bandung-Malam-Hari-1200x430.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.625885353648,
+                    -6.84839729250498
+                ]
+            },
+            "properties": {
+                "Place_Id": "29",
+                "Place_Name": "Dago Dreampark",
+                "Category": "Taman Hiburan",
+                "City": "Bandung",
+                "Price": "40000",
+                "Rating": "04:02",
+                "Y": -6.84839729250498,
+                "X": 107.625885353648,
+                "Jml_pengun": "1290",
+                "Jml_peng_1": "1023",
+                "Foto": "https://cdn.nativeindonesia.com/foto/2018/01/permadani-terbang-di-dago-dream-park-1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.342151170844,
+                    -7.20972271469086
+                ]
+            },
+            "properties": {
+                "Place_Id": "30",
+                "Place_Name": "Candi Gedong Songo",
+                "Category": "Budaya",
+                "City": "Semarang",
+                "Price": "10000",
+                "Rating": "04:05",
+                "Y": -7.20972271469086,
+                "X": 110.342151170844,
+                "Jml_pengun": "1098",
+                "Jml_peng_1": "908",
+                "Foto": "https://majalahaula.id/wp-content/uploads/2022/03/Wisata-Candi-Gedong-Songo-Semarang.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.3864477,
+                    -6.96001809203384
+                ]
+            },
+            "properties": {
+                "Place_Id": "31",
+                "Place_Name": "Grand Maerakaca",
+                "Category": "Taman Hiburan",
+                "City": "Semarang",
+                "Price": "15000",
+                "Rating": "04:04",
+                "Y": -6.96001809203384,
+                "X": 110.3864477,
+                "Jml_pengun": "1967",
+                "Jml_peng_1": "2484",
+                "Foto": "https://i.ytimg.com/vi/jqWMSsMlk8o/maxresdefault.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.408292222163,
+                    -6.98865756340878
+                ]
+            },
+            "properties": {
+                "Place_Id": "32",
+                "Place_Name": "Kampung Pelangi",
+                "Category": "Taman Hiburan",
+                "City": "Semarang",
+                "Price": "3000",
+                "Rating": "04:03",
+                "Y": -6.98865756340878,
+                "X": 110.408292222163,
+                "Jml_pengun": "635",
+                "Jml_peng_1": "580",
+                "Foto": "https://travel.wego.com/berita/wp-content/uploads/2017/05/editorialonly_semarangindo2017_corry.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.410597838341,
+                    -6.98369896565768
+                ]
+            },
+            "properties": {
+                "Place_Id": "33",
+                "Place_Name": "Lawang Sewu",
+                "Category": "Budaya",
+                "City": "Semarang",
+                "Price": "10000",
+                "Rating": "04:06",
+                "Y": -6.98369896565768,
+                "X": 110.410597838341,
+                "Jml_pengun": "670",
+                "Jml_peng_1": "147",
+                "Foto": "https://asset.kompas.com/crops/5fOXY3K4oKdIzs-F7qNcs0qtt68=/0x0:1430x953/750x500/data/photo/2022/01/17/61e57605c2256.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.37550336819,
+                    -7.01971514048326
+                ]
+            },
+            "properties": {
+                "Place_Id": "34",
+                "Place_Name": "Desa Wisata Lembah Kalipancur",
+                "Category": "Taman Hiburan",
+                "City": "Semarang",
+                "Price": "0",
+                "Rating": "03:09",
+                "Y": -7.01971514048326,
+                "X": 110.37550336819,
+                "Jml_pengun": "350",
+                "Jml_peng_1": "687",
+                "Foto": "https://cdn-2.tstatic.net/jateng/foto/bank/images/desa-wisata-lembah-kalipancur.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.401934768191,
+                    -7.02746956815269
+                ]
+            },
+            "properties": {
+                "Place_Id": "35",
+                "Place_Name": "Hutan Wisata Tinjomoyo Semarang",
+                "Category": "Cagar Alam",
+                "City": "Semarang",
+                "Price": "3000",
+                "Rating": "04:03",
+                "Y": -7.02746956815269,
+                "X": 110.401934768191,
+                "Jml_pengun": "694",
+                "Jml_peng_1": "897",
+                "Foto": "https://cdn-2.tstatic.net/jateng/foto/bank/images/penampakan-jembatan-merah-tinjomoyo_20161125_194056.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.406507322163,
+                    -6.99013098946846
+                ]
+            },
+            "properties": {
+                "Place_Id": "36",
+                "Place_Name": "Taman Kasmaran",
+                "Category": "Taman Hiburan",
+                "City": "Semarang",
+                "Price": "3000",
+                "Rating": "04:05",
+                "Y": -6.99013098946846,
+                "X": 110.406507322163,
+                "Jml_pengun": "361",
+                "Jml_peng_1": "684",
+                "Foto": "https://scymark.semarangkota.go.id/admin/data/20180828085124taman-kasmaran-mulai-dikunjungi-masyarakat-jumat-29122017_20171229_183029.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.398025176135,
+                    -6.94421050980167
+                ]
+            },
+            "properties": {
+                "Place_Id": "37",
+                "Place_Name": "Pantai Baruna",
+                "Category": "Bahari",
+                "City": "Semarang",
+                "Price": "3000",
+                "Rating": "4",
+                "Y": -6.94421050980167,
+                "X": 110.398025176135,
+                "Jml_pengun": "645",
+                "Jml_peng_1": "823",
+                "Foto": "https://idntrip.com/wp-content/uploads/pantai-baruna.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.431638245455,
+                    -6.9678354562366
+                ]
+            },
+            "properties": {
+                "Place_Id": "38",
+                "Place_Name": "Kampoeng Djadhoel Semarang",
+                "Category": "Budaya",
+                "City": "Semarang",
+                "Price": "10000",
+                "Rating": "04:07",
+                "Y": -6.9678354562366,
+                "X": 110.431638245455,
+                "Jml_pengun": "500",
+                "Jml_peng_1": "800",
+                "Foto": "https://img.antaranews.com/cache/800x533/2019/12/12/kampung-jadul.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.41990157614,
+                    -6.99128571444195
+                ]
+            },
+            "properties": {
+                "Place_Id": "39",
+                "Place_Name": "Indonesia Kaya Park",
+                "Category": "Taman Hiburan",
+                "City": "Semarang",
+                "Price": "0",
+                "Rating": "04:06",
+                "Y": -6.99128571444195,
+                "X": 110.41990157614,
+                "Jml_pengun": "120",
+                "Jml_peng_1": "324",
+                "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Taman_indonesia_kaya.jpg/330px-Taman_indonesia_kaya.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.803517337536,
+                    -7.29402911211084
+                ]
+            },
+            "properties": {
+                "Place_Id": "40",
+                "Place_Name": "Taman Harmoni Keputih",
+                "Category": "Cagar Alam",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:04",
+                "Y": -7.29402911211084,
+                "X": 112.803517337536,
+                "Jml_pengun": "150",
+                "Jml_peng_1": "240",
+                "Foto": "https://getlost.id/wp-content/uploads/2021/07/Ainur-1981.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.795609227732,
+                    -7.23554428720781
+                ]
+            },
+            "properties": {
+                "Place_Id": "41",
+                "Place_Name": "Air Mancur Menari",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "35000",
+                "Rating": "04:04",
+                "Y": -7.23554428720781,
+                "X": 112.795609227732,
+                "Jml_pengun": "170",
+                "Jml_peng_1": "280",
+                "Foto": "https://blogger.googleusercontent.com/img/a/AVvXsEi-de3xC23GvQqZBbd7Uemx5wsF0VDZtm4TCAQ9SVC333SsTNqtd3Ow_Hgprgasru5vT7DFDdM9E01_iKq6T08IQnlJfTuknQ7L3VVAcXj3kHygH82UkyKqWZ6WplmUFMFBIJZWOl8NBXpoYp6HKq4lBfWRx1R3yrRTsISjwAnUS68usf4qNaOx-ygOiA=w640-h394"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.742839962376,
+                    -7.26147888359352
+                ]
+            },
+            "properties": {
+                "Place_Id": "42",
+                "Place_Name": "Taman Prestasi",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:06",
+                "Y": -7.26147888359352,
+                "X": 112.742839962376,
+                "Jml_pengun": "125",
+                "Jml_peng_1": "345",
+                "Foto": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/11/12/4106578365.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.750272838332,
+                    -7.26569609192728
+                ]
+            },
+            "properties": {
+                "Place_Id": "43",
+                "Place_Name": "Monumen Kapal Selam",
+                "Category": "Budaya",
+                "City": "Surabaya",
+                "Price": "15000",
+                "Rating": "04:04",
+                "Y": -7.26569609192728,
+                "X": 112.750272838332,
+                "Jml_pengun": "124",
+                "Jml_peng_1": "324",
+                "Foto": "https://tourism.surabaya.go.id/storage/tour/1652777982_1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.784240700472,
+                    -7.31821521849223
+                ]
+            },
+            "properties": {
+                "Place_Id": "44",
+                "Place_Name": "Taman Kunang-Kunang",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:04",
+                "Y": -7.31821521849223,
+                "X": 112.784240700472,
+                "Jml_pengun": "245",
+                "Jml_peng_1": "657",
+                "Foto": "https://akcdn.detik.net.id/visual/2015/10/20/20ce0e51-04cf-4d35-aff8-d12b301bb70c_169.jpg?w=650"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.742740140867,
+                    -7.25463730043426
+                ]
+            },
+            "properties": {
+                "Place_Id": "45",
+                "Place_Name": "Taman Buah Surabaya",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:01",
+                "Y": -7.25463730043426,
+                "X": 112.742740140867,
+                "Jml_pengun": "134",
+                "Jml_peng_1": "645",
+                "Foto": "https://3.bp.blogspot.com/-fBGDIKfPt30/WCA8wwD18uI/AAAAAAAAGeM/Qmo_o0N3XisYndbVzckTAsQXI7-X6R3GwCLcB/s1600/buah1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.731159824041,
+                    -7.32731564668413
+                ]
+            },
+            "properties": {
+                "Place_Id": "46",
+                "Place_Name": "Taman Pelangi",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:05",
+                "Y": -7.32731564668413,
+                "X": 112.731159824041,
+                "Jml_pengun": "143",
+                "Jml_peng_1": "678",
+                "Foto": "https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/taman-pelangi-jogja.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.801734525886,
+                    -7.29391420236857
+                ]
+            },
+            "properties": {
+                "Place_Id": "47",
+                "Place_Name": "Hutan Bambu Keputih",
+                "Category": "Cagar Alam",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:03",
+                "Y": -7.29391420236857,
+                "X": 112.801734525886,
+                "Jml_pengun": "260",
+                "Jml_peng_1": "708",
+                "Foto": "https://bappedalitbang.surabaya.go.id/ecobis/upload/wisata/sejarah/detail_45_01.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.661973110546,
+                    -7.25078784795446
+                ]
+            },
+            "properties": {
+                "Place_Id": "48",
+                "Place_Name": "Food Junction Grand Pakuwon",
+                "Category": "Pusat Perbelanjaan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:05",
+                "Y": -7.25078784795446,
+                "X": 112.661973110546,
+                "Jml_pengun": "234",
+                "Jml_peng_1": "590",
+                "Foto": "https://medicaltourism.id/wp-content/uploads/2021/04/Sampul-Food-Junction.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.73193232404,
+                    -7.2218217329439
+                ]
+            },
+            "properties": {
+                "Place_Id": "49",
+                "Place_Name": "Taman Barunawati",
+                "Category": "Taman Hiburan",
+                "City": "Surabaya",
+                "Price": "0",
+                "Rating": "04:02",
+                "Y": -7.2218217329439,
+                "X": 112.73193232404,
+                "Jml_pengun": "239",
+                "Jml_peng_1": "688",
+                "Foto": "https://www.kabarbisnis.com/images/photo/201910/2235-Taman2.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.610578628016,
+                    -6.91460298220716
+                ]
+            },
+            "properties": {
+                "Place_Id": "50",
+                "Place_Name": "Gereja Katedral Santo Petrus Bandung",
+                "Category": "Tempat Ibadah",
+                "City": "Bandung",
+                "Price": "0",
+                "Rating": "04:08",
+                "Y": -6.91460298220716,
+                "X": 107.610578628016,
+                "Jml_pengun": "342",
+                "Jml_peng_1": "789",
+                "Foto": "https://bandungklik.com/wp-content/uploads/2020/12/katedral_santo_petrus_bandung_klik.jpeg"
+            }
+        }
+    ]
+}

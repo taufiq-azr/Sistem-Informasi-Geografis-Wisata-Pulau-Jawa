@@ -1,0 +1,235 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.609305306815,
+                    -6.9169761613
+                ]
+            },
+            "properties": {
+                "Place_Id": "21",
+                "Place_Name": "Jalan Braga",
+                "Category": "Budaya",
+                "City": "Bandung",
+                "Price": "0",
+                "Rating": "04:07",
+                "Y": -6.9169761613,
+                "X": 107.609305306815,
+                "Jml_pengun": "162",
+                "Jml_peng_1": "214",
+                "Foto": "https://cdn.nativeindonesia.com/foto/2018/09/Jalan-Braga-3.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.618685368992,
+                    -6.9022405223769
+                ]
+            },
+            "properties": {
+                "Place_Id": "22",
+                "Place_Name": "Gedung Sate",
+                "Category": "Budaya",
+                "City": "Bandung",
+                "Price": "5000",
+                "Rating": "04:06",
+                "Y": -6.9022405223769,
+                "X": 107.618685368992,
+                "Jml_pengun": "389",
+                "Jml_peng_1": "456",
+                "Foto": "https://asset.kompas.com/crops/_QBFvchNV7JtOIaVkEg0JFZfLJU=/0x0:1000x667/750x500/data/photo/2022/07/25/62dec6809a479.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.636222540156,
+                    -6.92442188343561
+                ]
+            },
+            "properties": {
+                "Place_Id": "23",
+                "Place_Name": "Trans Studio Bandung",
+                "Category": "Taman Hiburan",
+                "City": "Bandung",
+                "Price": "280000",
+                "Rating": "04:05",
+                "Y": -6.92442188343561,
+                "X": 107.636222540156,
+                "Jml_pengun": "2989",
+                "Jml_peng_1": "3981",
+                "Foto": "https://img.bandung.go.id/images/news/2022/02/07/header/164419681126-trans-studio-bandung-destinasi-wajib-pelancong-dengan-20-wahana-seru.JPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.633100055499,
+                    -6.85686413639065
+                ]
+            },
+            "properties": {
+                "Place_Id": "24",
+                "Place_Name": "Taman Hutan Raya Ir. H. Djuanda",
+                "Category": "Cagar Alam",
+                "City": "Bandung",
+                "Price": "15000",
+                "Rating": "04:05",
+                "Y": -6.85686413639065,
+                "X": 107.633100055499,
+                "Jml_pengun": "1098",
+                "Jml_peng_1": "989",
+                "Foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Taman_Hutan_Raya_IR_Djuanda.jpg/1200px-Taman_Hutan_Raya_IR_Djuanda.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.605553924812,
+                    -6.83269202656492
+                ]
+            },
+            "properties": {
+                "Place_Id": "25",
+                "Place_Name": "Farm House Susu Lembang",
+                "Category": "Taman Hiburan",
+                "City": "Bandung",
+                "Price": "30000",
+                "Rating": "04:04",
+                "Y": -6.83269202656492,
+                "X": 107.605553924812,
+                "Jml_pengun": "879",
+                "Jml_peng_1": "912",
+                "Foto": "https://cdn.nativeindonesia.com/foto/farmhouse-lembang-bandung/farm-house-lembang-Bandung.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.607824997827,
+                    -6.88950706773544
+                ]
+            },
+            "properties": {
+                "Place_Id": "26",
+                "Place_Name": "Kebun Binatang Bandung",
+                "Category": "Cagar Alam",
+                "City": "Bandung",
+                "Price": "20000",
+                "Rating": "4",
+                "Y": -6.88950706773544,
+                "X": 107.607824997827,
+                "Jml_pengun": "1290",
+                "Jml_peng_1": "1098",
+                "Foto": "https://piknikwisata.com/wp-content/uploads/2019/08/kebun-binatang-bandung-e1568565524231.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.402107461322,
+                    -7.16599436936884
+                ]
+            },
+            "properties": {
+                "Place_Id": "27",
+                "Place_Name": "Kawah Putih",
+                "Category": "Cagar Alam",
+                "City": "Bandung",
+                "Price": "81000",
+                "Rating": "04:05",
+                "Y": -7.16599436936884,
+                "X": 107.402107461322,
+                "Jml_pengun": "650",
+                "Jml_peng_1": "433",
+                "Foto": "https://thumb.intipseleb.com/media/frontend/thumbs3/2022/05/25/628e05ea032a8-kawah-putih_1265_711.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.606096982485,
+                    -6.92148733275474
+                ]
+            },
+            "properties": {
+                "Place_Id": "28",
+                "Place_Name": "Masjid Raya Bandung",
+                "Category": "Tempat Ibadah",
+                "City": "Bandung",
+                "Price": "0",
+                "Rating": "04:07",
+                "Y": -6.92148733275474,
+                "X": 107.606096982485,
+                "Jml_pengun": "2983",
+                "Jml_peng_1": "3012",
+                "Foto": "https://tourbandung.id/wp-content/uploads/2019/05/Lokasi-Masjid-Raya-Agung-Bandung-Malam-Hari-1200x430.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.625885353648,
+                    -6.84839729250498
+                ]
+            },
+            "properties": {
+                "Place_Id": "29",
+                "Place_Name": "Dago Dreampark",
+                "Category": "Taman Hiburan",
+                "City": "Bandung",
+                "Price": "40000",
+                "Rating": "04:02",
+                "Y": -6.84839729250498,
+                "X": 107.625885353648,
+                "Jml_pengun": "1290",
+                "Jml_peng_1": "1023",
+                "Foto": "https://cdn.nativeindonesia.com/foto/2018/01/permadani-terbang-di-dago-dream-park-1.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.610578628016,
+                    -6.91460298220716
+                ]
+            },
+            "properties": {
+                "Place_Id": "50",
+                "Place_Name": "Gereja Katedral Santo Petrus Bandung",
+                "Category": "Tempat Ibadah",
+                "City": "Bandung",
+                "Price": "0",
+                "Rating": "04:08",
+                "Y": -6.91460298220716,
+                "X": 107.610578628016,
+                "Jml_pengun": "342",
+                "Jml_peng_1": "789",
+                "Foto": "https://bandungklik.com/wp-content/uploads/2020/12/katedral_santo_petrus_bandung_klik.jpeg"
+            }
+        }
+    ]
+}

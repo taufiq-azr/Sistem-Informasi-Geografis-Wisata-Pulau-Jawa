@@ -1,0 +1,760 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [100.80970600000006, 1.0425220000000195]
+        },
+        "properties": {
+            "OBJECTID": 1,
+            "No_": 1,
+            "Nama_Pemetaan": "Teluk Sano",
+            "Jumlah_Korban": 85,
+            "Y": 1.0425219999999999,
+            "X": 100.80970600000001
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [100.76021900000006, 1.0988470000000348]
+        },
+        "properties": {
+            "OBJECTID": 2,
+            "No_": 2,
+            "Nama_Pemetaan": "Kasang Mungkal",
+            "Jumlah_Korban": 276,
+            "Y": 1.0988469999999999,
+            "X": 100.76021900000001
+        }
+    }, {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [100.79883700000005, 1.1341480000000388]
+        },
+        "properties": {
+            "OBJECTID": 3,
+            "No_": 3,
+            "Nama_Pemetaan": "Sontang Dsn. Harapan",
+            "Jumlah_Korban": 184,
+            "Y": 1.1341479999999999,
+            "X": 100.79883700000001
+        }
+    }, {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.58497200000005, -0.38140099999992572]
+        },
+        "properties": {
+            "OBJECTID": 4,
+            "No_": 4,
+            "Nama_Pemetaan": "Rantau Mespai",
+            "Jumlah_Korban": 280,
+            "Y": -0.38140099999999999,
+            "X": 102.58497199999999
+        }
+    }, {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.54313300000007, -0.36675599999995256]
+        },
+        "properties": {
+            "OBJECTID": 5,
+            "No_": 5,
+            "Nama_Pemetaan": "Kambesko",
+            "Jumlah_Korban": 295,
+            "Y": -0.36675600000000003,
+            "X": 102.543133
+        }
+    }, {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.17424900000003, -0.4961559999999281]
+        },
+        "properties": {
+            "OBJECTID": 6,
+            "No_": 6,
+            "Nama_Pemetaan": "Dusun Tua",
+            "Jumlah_Korban": 104,
+            "Y": -0.49615599999999999,
+            "X": 102.174249
+        }
+    }, {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.16593800000004, -0.49641999999994368]
+        },
+        "properties": {
+            "OBJECTID": 7,
+            "No_": 7,
+            "Nama_Pemetaan": "Teluk Sejuah",
+            "Jumlah_Korban": 26,
+            "Y": -0.49641999999999997,
+            "X": 102.165938
+        }
+    }, {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.04821600000008, -0.52318999999994276]
+        },
+        "properties": {
+            "OBJECTID": 8,
+            "No_": 8,
+            "Nama_Pemetaan": "Pulau Sengkilo",
+            "Jumlah_Korban": 573,
+            "Y": -0.52319000000000004,
+            "X": 102.048216
+        }
+    }, {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.08691600000009, -0.51531499999993002]
+        },
+        "properties": {
+            "OBJECTID": 9,
+            "No_": 9,
+            "Nama_Pemetaan": "Koto Medan",
+            "Jumlah_Korban": 179,
+            "Y": -0.51531499999999997,
+            "X": 102.086916
+        }
+    }, {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.12634800000006, -0.49316299999992452]
+        },
+        "properties": {
+            "OBJECTID": 10,
+            "No_": 10,
+            "Nama_Pemetaan": "Pasir Beringin",
+            "Jumlah_Korban": 110,
+            "Y": -0.49316300000000002,
+            "X": 102.12634799999999
+        }
+    }, {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.13498200000004, -0.47015599999997448]
+        },
+        "properties": {
+            "OBJECTID": 11,
+            "No_": 11,
+            "Nama_Pemetaan": "Simpang Kelayang",
+            "Jumlah_Korban": 31,
+            "Y": -0.47015600000000002,
+            "X": 102.13498199999999
+        }
+    }, {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.17596100000009, -0.49473699999992959]
+        },
+        "properties": {
+            "OBJECTID": 12,
+            "No_": 12,
+            "Nama_Pemetaan": "Dusun Tua Pelang",
+            "Jumlah_Korban": 52,
+            "Y": -0.49473699999999998,
+            "X": 102.175961
+        }
+    }, {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.10631800000004, -0.51548399999995809]
+        },
+        "properties": {
+            "OBJECTID": 13,
+            "No_": 13,
+            "Nama_Pemetaan": "Polak Pisang",
+            "Jumlah_Korban": 46,
+            "Y": -0.51548400000000005,
+            "X": 102.106318
+        }
+    }, {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43737900000008, 1.675228000000061]
+        },
+        "properties": {
+            "OBJECTID": 14,
+            "No_": 14,
+            "Nama_Pemetaan": "Jl. Nangka",
+            "Jumlah_Korban": 7,
+            "Y": 1.6752279999999999,
+            "X": 101.43737900000001
+        }
+    }, {
+        "type": "Feature",
+        "id": 15,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.40481700000004, 1.6664290000000506]
+        },
+        "properties": {
+            "OBJECTID": 15,
+            "No_": 15,
+            "Nama_Pemetaan": "Jl. Meranti Darat",
+            "Jumlah_Korban": 30,
+            "Y": 1.6664289999999999,
+            "X": 101.40481699999999
+        }
+    }, {
+        "type": "Feature",
+        "id": 16,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.41465400000004, 1.6784530000000473]
+        },
+        "properties": {
+            "OBJECTID": 16,
+            "No_": 16,
+            "Nama_Pemetaan": "Jl. Meranti Laut",
+            "Jumlah_Korban": 20,
+            "Y": 1.678453,
+            "X": 101.414654
+        }
+    }, {
+        "type": "Feature",
+        "id": 17,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.42343600000004, 1.6697020000000293]
+        },
+        "properties": {
+            "OBJECTID": 17,
+            "No_": 17,
+            "Nama_Pemetaan": "Jl. Sei Teras",
+            "Jumlah_Korban": 30,
+            "Y": 1.669702,
+            "X": 101.423436
+        }
+    }, {
+        "type": "Feature",
+        "id": 18,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.42738300000008, 1.6664440000000695]
+        },
+        "properties": {
+            "OBJECTID": 18,
+            "No_": 18,
+            "Nama_Pemetaan": "Jl. Siderejo",
+            "Jumlah_Korban": 5,
+            "Y": 1.666444,
+            "X": 101.42738300000001
+        }
+    }, {
+        "type": "Feature",
+        "id": 19,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.42343100000005, 1.6775550000000408]
+        },
+        "properties": {
+            "OBJECTID": 19,
+            "No_": 19,
+            "Nama_Pemetaan": "Jl. M. Husni Tamrin",
+            "Jumlah_Korban": 20,
+            "Y": 1.6775549999999999,
+            "X": 101.42343099999999
+        }
+    }, {
+        "type": "Feature",
+        "id": 20,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.26225800000009, 0.071248000000025513]
+        },
+        "properties": {
+            "OBJECTID": 20,
+            "No_": 20,
+            "Nama_Pemetaan": "Gunung Sahilan",
+            "Jumlah_Korban": 95,
+            "Y": 0.071248000000000006,
+            "X": 101.262258
+        }
+    }, {
+        "type": "Feature",
+        "id": 21,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.28669800000006, 0.13334500000001981]
+        },
+        "properties": {
+            "OBJECTID": 21,
+            "No_": 21,
+            "Nama_Pemetaan": "Sahilan Darussalam",
+            "Jumlah_Korban": 113,
+            "Y": 0.13334499999999999,
+            "X": 101.286698
+        }
+    }, {
+        "type": "Feature",
+        "id": 22,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.33915400000006, -0.042704999999955362]
+        },
+        "properties": {
+            "OBJECTID": 22,
+            "No_": 22,
+            "Nama_Pemetaan": "Subarak",
+            "Jumlah_Korban": 11,
+            "Y": -0.042705,
+            "X": 101.33915399999999
+        }
+    }, {
+        "type": "Feature",
+        "id": 23,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.34955200000007, 0.0032760000000280343]
+        },
+        "properties": {
+            "OBJECTID": 23,
+            "No_": 23,
+            "Nama_Pemetaan": "Sungai Lipai",
+            "Jumlah_Korban": 47,
+            "Y": 0.0032759999999999998,
+            "X": 101.349552
+        }
+    }, {
+        "type": "Feature",
+        "id": 24,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.36474600000008, 3.6000000022795575e-05]
+        },
+        "properties": {
+            "OBJECTID": 24,
+            "No_": 24,
+            "Nama_Pemetaan": "Kebun Durian",
+            "Jumlah_Korban": 50,
+            "Y": 3.6000000000000001e-05,
+            "X": 101.364746
+        }
+    }, {
+        "type": "Feature",
+        "id": 25,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.46518900000007, 0.38029200000005403]
+        },
+        "properties": {
+            "OBJECTID": 25,
+            "No_": 25,
+            "Nama_Pemetaan": "Lubuk Siam",
+            "Jumlah_Korban": 6,
+            "Y": 0.38029200000000002,
+            "X": 101.465189
+        }
+    }, {
+        "type": "Feature",
+        "id": 26,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.11254400000007, 0.34879300000005742]
+        },
+        "properties": {
+            "OBJECTID": 26,
+            "No_": 26,
+            "Nama_Pemetaan": "Pl. Jambu",
+            "Jumlah_Korban": 4,
+            "Y": 0.34879300000000002,
+            "X": 101.112544
+        }
+    }, {
+        "type": "Feature",
+        "id": 27,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.02130900000009, 0.66334100000005947]
+        },
+        "properties": {
+            "OBJECTID": 27,
+            "No_": 27,
+            "Nama_Pemetaan": "Petapahan",
+            "Jumlah_Korban": 174,
+            "Y": 0.66334099999999996,
+            "X": 101.021309
+        }
+    }, {
+        "type": "Feature",
+        "id": 28,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.38405300000005, -0.56790799999993169]
+        },
+        "properties": {
+            "OBJECTID": 28,
+            "No_": 28,
+            "Nama_Pemetaan": "Mudiak Ulo",
+            "Jumlah_Korban": 45,
+            "Y": -0.56790799999999997,
+            "X": 101.38405299999999
+        }
+    }, {
+        "type": "Feature",
+        "id": 29,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.58868500000005, -0.67588899999992691]
+        },
+        "properties": {
+            "OBJECTID": 29,
+            "No_": 29,
+            "Nama_Pemetaan": "Koto Cengar",
+            "Jumlah_Korban": 32,
+            "Y": -0.67588899999999996,
+            "X": 101.588685
+        }
+    }, {
+        "type": "Feature",
+        "id": 30,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.63066400000008, -0.6972529999999324]
+        },
+        "properties": {
+            "OBJECTID": 30,
+            "No_": 30,
+            "Nama_Pemetaan": "Lubuk Ramo",
+            "Jumlah_Korban": 56,
+            "Y": -0.69725300000000001,
+            "X": 101.630664
+        }
+    }, {
+        "type": "Feature",
+        "id": 31,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.46721500000007, -0.72394099999996797]
+        },
+        "properties": {
+            "OBJECTID": 31,
+            "No_": 31,
+            "Nama_Pemetaan": "Seberang Cengar",
+            "Jumlah_Korban": 61,
+            "Y": -0.72394099999999995,
+            "X": 101.467215
+        }
+    }, {
+        "type": "Feature",
+        "id": 32,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.41927400000009, -0.6281919999999559]
+        },
+        "properties": {
+            "OBJECTID": 32,
+            "No_": 32,
+            "Nama_Pemetaan": "Muaro Tombang",
+            "Jumlah_Korban": 4,
+            "Y": -0.62819199999999997,
+            "X": 101.419274
+        }
+    }, {
+        "type": "Feature",
+        "id": 33,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.63346900000005, -0.50376399999993282]
+        },
+        "properties": {
+            "OBJECTID": 33,
+            "No_": 33,
+            "Nama_Pemetaan": "Muaro Tobek",
+            "Jumlah_Korban": 7,
+            "Y": -0.50376399999999999,
+            "X": 101.63346900000001
+        }
+    }, {
+        "type": "Feature",
+        "id": 34,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.73559000000006, -0.69348199999996041]
+        },
+        "properties": {
+            "OBJECTID": 34,
+            "No_": 34,
+            "Nama_Pemetaan": "Muaro Petai",
+            "Jumlah_Korban": 40,
+            "Y": -0.69348200000000004,
+            "X": 101.73559
+        }
+    }, {
+        "type": "Feature",
+        "id": 35,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.61787800000008, -0.45131299999997054]
+        },
+        "properties": {
+            "OBJECTID": 35,
+            "No_": 35,
+            "Nama_Pemetaan": "Muaro Tiu Makmur",
+            "Jumlah_Korban": 30,
+            "Y": -0.45131300000000002,
+            "X": 101.617878
+        }
+    }, {
+        "type": "Feature",
+        "id": 36,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.88946900000008, -0.2536609999999655]
+        },
+        "properties": {
+            "OBJECTID": 36,
+            "No_": 36,
+            "Nama_Pemetaan": "Lubuk Kembang Bunga",
+            "Jumlah_Korban": 80,
+            "Y": -0.25366100000000003,
+            "X": 101.88946900000001
+        }
+    }, {
+        "type": "Feature",
+        "id": 37,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.81675600000005, 0.32127500000007103]
+        },
+        "properties": {
+            "OBJECTID": 37,
+            "No_": 37,
+            "Nama_Pemetaan": "Rantau Baru",
+            "Jumlah_Korban": 144,
+            "Y": 0.32127499999999998,
+            "X": 101.816756
+        }
+    }, {
+        "type": "Feature",
+        "id": 38,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.72351900000007, 0.24572000000006256]
+        },
+        "properties": {
+            "OBJECTID": 38,
+            "No_": 38,
+            "Nama_Pemetaan": "Langgam",
+            "Jumlah_Korban": 381,
+            "Y": 0.24571999999999999,
+            "X": 101.723519
+        }
+    }, {
+        "type": "Feature",
+        "id": 39,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.91797200000008, 0.3865490000000591]
+        },
+        "properties": {
+            "OBJECTID": 39,
+            "No_": 39,
+            "Nama_Pemetaan": "Sering",
+            "Jumlah_Korban": 500,
+            "Y": 0.38654899999999998,
+            "X": 101.91797200000001
+        }
+    }, {
+        "type": "Feature",
+        "id": 40,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.01913500000006, -0.16670699999997396]
+        },
+        "properties": {
+            "OBJECTID": 40,
+            "No_": 40,
+            "Nama_Pemetaan": "Air hitam",
+            "Jumlah_Korban": 180,
+            "Y": -0.16670699999999999,
+            "X": 102.01913500000001
+        }
+    }, {
+        "type": "Feature",
+        "id": 41,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.86853400000007, 0.31790400000005548]
+        },
+        "properties": {
+            "OBJECTID": 41,
+            "No_": 41,
+            "Nama_Pemetaan": "Kuala Terusan",
+            "Jumlah_Korban": 111,
+            "Y": 0.31790400000000002,
+            "X": 101.868534
+        }
+    }, {
+        "type": "Feature",
+        "id": 42,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.86265000000009, 0.39248000000003458]
+        },
+        "properties": {
+            "OBJECTID": 42,
+            "No_": 42,
+            "Nama_Pemetaan": "Pankalan kerinci Kota",
+            "Jumlah_Korban": 72,
+            "Y": 0.39248,
+            "X": 101.86265
+        }
+    }, {
+        "type": "Feature",
+        "id": 43,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.88223100000005, 0.41024300000003677]
+        },
+        "properties": {
+            "OBJECTID": 43,
+            "No_": 43,
+            "Nama_Pemetaan": "Pangkalan Kerinci Timur",
+            "Jumlah_Korban": 45,
+            "Y": 0.41024300000000002,
+            "X": 101.882231
+        }
+    }, {
+        "type": "Feature",
+        "id": 44,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.09801700000008, 0.4368930000000546]
+        },
+        "properties": {
+            "OBJECTID": 44,
+            "No_": 44,
+            "Nama_Pemetaan": "Pelalawan",
+            "Jumlah_Korban": 450,
+            "Y": 0.43689299999999998,
+            "X": 102.098017
+        }
+    }, {
+        "type": "Feature",
+        "id": 45,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.30812800000007, 0.39570100000003094]
+        },
+        "properties": {
+            "OBJECTID": 45,
+            "No_": 45,
+            "Nama_Pemetaan": "Sungai Ara",
+            "Jumlah_Korban": 309,
+            "Y": 0.39570100000000002,
+            "X": 102.308128
+        }
+    }, {
+        "type": "Feature",
+        "id": 46,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.23813600000005, 0.27697000000006256]
+        },
+        "properties": {
+            "OBJECTID": 46,
+            "No_": 46,
+            "Nama_Pemetaan": "Rangsang",
+            "Jumlah_Korban": 200,
+            "Y": 0.27696999999999999,
+            "X": 102.238136
+        }
+    }, {
+        "type": "Feature",
+        "id": 47,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [102.20593800000006, 0.45103200000005472]
+        },
+        "properties": {
+            "OBJECTID": 47,
+            "No_": 47,
+            "Nama_Pemetaan": "Kuala Tolam",
+            "Jumlah_Korban": 90,
+            "Y": 0.45103199999999999,
+            "X": 102.205938
+        }
+    }, {
+        "type": "Feature",
+        "id": 48,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.82745200000005, 0.39605300000005172]
+        },
+        "properties": {
+            "OBJECTID": 48,
+            "No_": 48,
+            "Nama_Pemetaan": "Pangkalan Kerinci Barat",
+            "Jumlah_Korban": 59,
+            "Y": 0.39605299999999999,
+            "X": 101.82745199999999
+        }
+    }, {
+        "type": "Feature",
+        "id": 49,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.91745900000006, 0.31199200000003202]
+        },
+        "properties": {
+            "OBJECTID": 49,
+            "No_": 49,
+            "Nama_Pemetaan": "Kemang",
+            "Jumlah_Korban": 76,
+            "Y": 0.31199199999999999,
+            "X": 101.91745899999999
+        }
+    }, {
+        "type": "Feature",
+        "id": 50,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.73376500000006, -0.16723399999995081]
+        },
+        "properties": {
+            "OBJECTID": 50,
+            "No_": 50,
+            "Nama_Pemetaan": "Kesuma",
+            "Jumlah_Korban": 27,
+            "Y": -0.16723399999999999,
+            "X": 101.73376500000001
+        }
+    }]
+}

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Dashboard - NiceAdmin Bootstrap Template</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.gstatic.com" rel="preconnect">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/quill/quill.snow.css" rel="stylesheet">
+  <link href="assets/vendor/quill/quill.bubble.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/simple-datatables/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v7.1.0/ol.css">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v7.1.0/ol.css">
+  <script src="https://cdn.jsdelivr.net/npm/ol@v7.1.0/dist/ol.js"></script>
+  <link rel="stylesheet" href="data/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"
+    integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
+    crossorigin=""></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+  <link href="img/favicon.ico" rel="icon" />
+
+  <!-- Google Web Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&family=Rubik:wght@500;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <!-- Icon Font Stylesheet -->
+  <link
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css"
+    rel="stylesheet"
+  />
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css"
+    rel="stylesheet"
+  />
+
+  <!-- Libraries Stylesheet -->
+  <link href="lib/animate/animate.min.css" rel="stylesheet" />
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+
+  <!-- Customized Bootstrap Stylesheet -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" />
+
+  <!-- Template Stylesheet -->
+  <link href="css/style.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/ol-geocoder@latest/dist/ol-geocoder.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/ol-geocoder"></script>
+  <!-- =======================================================
+  * Template Name: NiceAdmin - v2.4.1
+  * Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+<style>
+  html,
+  body {
+    margin: 0;
+    height: 100%;
+  }
+
+ 
+</style>
+
+<body>
+
+  <!-- Navbar Start -->
+  <nav
+  class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-0 pe-5"
+>
+  <a href="index.html" class="navbar-brand ps-5 me-0">
+    <h1 class="text-white m-0">SIGWPJ</h1>
+  </a>
+  <button
+    type="button"
+    class="navbar-toggler me-0"
+    data-bs-toggle="collapse"
+    data-bs-target="#navbarCollapse"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <div class="navbar-nav ms-auto p-4 p-lg-0">
+      <a href="index.html" class="nav-item nav-link active">Home</a>
+     
+    </div>
+  </div>
+</nav>
+<!-- Navbar End -->
+
+  <!-- About Start -->
+  <div id="jakarta" class="container-xxl py-1">
+    <div class="container">
+      <div class="row g-8">
+        <div class="pagetitle">
+          <h1 class="card-title">Peta Sebaran Tempat Wisata di Pulau Jawa </h1>
+          <nav>
+            <ol class="breadcrumb">
+    
+            </ol>
+          </nav>
+        </div><!-- End Page Title -->
+        <div class="col-xl-9">
+          <div
+           
+            id="map"
+            style=" height: 480px; width: 800;"
+          >
+            <!-- menampilkan popup-->
+            <div id="popup" class="ol-popup">
+              <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+              <div id="popup-content"></div>
+            </div>
+            <!-- ------------------->
+           
+          </div>
+        </div>
+        <div class="col-lg-3">
+         
+
+            <!-- Left side columns -->
+            <div class="col-lg-9 ">
+              <div class="row">
+                <!-- News & Updates Traffic -->
+                <div class="card ">
+    
+                  <div class="card-body pb-1 card-body-custom">
+                    <h5 class="card-title">Select Layer Polygon</h5>
+    
+                    <div class="col-md-3 float-right">
+                      <!-- <div class="form-check">
+                        <input onchange="selectLayer(this)" class="form-check-input" type="checkbox" value="default" checked>
+                        <label class="form-check-label">
+                          Peta Dasar
+                        </label>
+                      </div> -->
+                    </div>
+                    
+                    <div class="form-check">
+                      <input onchange="selectLayer(this)" class="form-check-input" type="checkbox" value="jawa">
+                      <label class="form-check-label">
+                        Polygon Jawa
+                      </label>
+    
+                    </div>
+                  
+                   
+                  </div>
+                  <div class="card-body pb-4 card-body-custom">
+                    <h5 class="card-title">Select Layer Wisata</h5>
+    
+                    <div class="col-md-3 float-right">
+                      <!-- <div class="form-check">
+                        <input onchange="selectLayer(this)" class="form-check-input" type="checkbox" value="default" checked>
+                        <label class="form-check-label">
+                          Peta Dasar
+                        </label>
+                      </div> -->
+                    </div>
+                    <div class="form-check">
+                      <input onchange="selectLayer(this)" class="form-check-input" type="checkbox" value="tempatwisata">
+                      <label class="form-check-label">
+                        Tempat All Wisata
+                      </label>
+                    </div>
+                    <div class="form-check">
+                      <input onchange="selectLayer(this)" class="form-check-input" type="checkbox" value="wisata-jakarta">
+                      <label class="form-check-label">
+                        Wisata Jakarta
+                      </label>
+    
+                    </div>
+                    <div class="form-check">
+                      <input onchange="selectLayer(this)" class="form-check-input" type="checkbox" value="wisata-surabaya">
+                      <label class="form-check-label">
+                        Wisata Surabaya
+                      </label>
+    
+                    </div>
+                    <div class="form-check">
+                      <input onchange="selectLayer(this)" class="form-check-input" type="checkbox" value="wisata-bandung">
+                      <label class="form-check-label">
+                        Wisata Bandung
+                      </label>
+    
+                    </div>
+                    <div class="form-check">
+                      <input onchange="selectLayer(this)" class="form-check-input" type="checkbox" value="wisata-semarang">
+                      <label class="form-check-label">
+                        Wisata Semarang
+                      </label>
+    
+                    </div>
+                    <div class="form-check">
+                      <input onchange="selectLayer(this)" class="form-check-input" type="checkbox" value="wisata-yogyakarta">
+                      <label class="form-check-label">
+                        Wisata yogyakarta
+                      </label>
+    
+                    </div>
+                   
+                  </div>
+    
+    
+    
+    
+              
+                  </div>
+    
+                </div>
+      </div>
+   
+  </div>
+  <!-- About End -->
+  
+
+
+  
+
+  <!-- Copyright Start -->
+  <div class="container-fluid copyright bg-white py-2">
+    <div class="container text-center">
+      <p class="mb-1">
+        Copyright &copy; <a class="fw-semi-bold" href="index.html">SIGWPJ</a>,
+        All Right Reserved.
+      </p>
+    </div>
+  </div>
+  <!-- Copyright End -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/apexcharts/apexcharts.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/chart.js/chart.min.js"></script>
+  <script src="assets/vendor/echarts/echarts.min.js"></script>
+  <script src="assets/vendor/quill/quill.min.js"></script>
+  <script src="assets/vendor/simple-datatables/simple-datatables.js"></script>
+  <script src="assets/vendor/tinymce/tinymce.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/ol@v7.1.0/dist/ol.js"></script>
+
+  <!-- Template Main JS File -->
+
+
+<script src="./script2.js"></script> 
+  <script>
+
+  </script>
+
+
+</body>
+
+</html>
